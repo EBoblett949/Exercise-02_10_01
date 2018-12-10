@@ -2,10 +2,10 @@
 <html>
 <head>
     <!-- 
-        Exercise xx_xx_xx
+        Exercise 02_10_01
         Author: Eli Boblett
-        Date: xx.xx.18 
-        .php
+        Date: 12.10.18 
+        GourmetCoffee.php
      -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,8 +13,9 @@
     <script src="modernizr.custom.65897.js"></script>
 </head>
 <body>
-    <?php
-    
-    ?>
+    <h1>Gourmet Coffee</h1>
+    <h2>Description goes here</h2>
+    <p>Welcome message goes here</p>
+    <p>Inventory goes here</p>
 </body>
 </html>
