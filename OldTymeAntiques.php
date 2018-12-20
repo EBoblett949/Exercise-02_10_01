@@ -2,7 +2,7 @@
     session_start();
     // require_once("inc_OnlineStoresDB.php");
     require_once("class_OnlineStore.php");
-    $storeID = "COFFEE";
+    $storeID = "ANTIQUE";
     $storeInfo = array();
     if (class_exists("OnlineStore")) {
         if (isset($_SESSION['currentStore'])) {
